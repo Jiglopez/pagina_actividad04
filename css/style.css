@@ -1,0 +1,175 @@
+body{
+    margin: 0px;
+    padding: 0px
+    }
+
+#contenedor{
+    width:100%;
+    height:100%;
+    }
+
+
+#navegacion a{
+    color: #ffc107;
+
+}
+
+#titulo{
+    font-size: 20pt;
+}
+
+#cuerpo{
+    display: flex;
+    
+}
+
+.inicio{
+
+    background-image: url(..//img/logo_inicio.jpg);
+    margin: auto;
+    height: 100vh;
+    width: 100%;
+    border-bottom: 3px solid rgb(35, 35, 39);
+    
+
+}
+
+.izq{
+    height: 100vh;
+    width: 50%;
+    text-align:center;
+    padding-left: 10px;
+    padding-right: 10px;
+    float: left;
+    padding-top: 50px;
+    padding-bottom: 150px;
+    border-bottom: 3px solid rgb(35, 35, 39);
+    
+    
+}
+
+.mid{
+    height: 100vh;
+    width: 40%;
+    text-align: center;
+    background-image: url(..//img/cripto1.jpg);
+    border-right: 3px solid rgb(35, 35, 39);
+    border-left: 3px solid rgb(35, 35, 39);
+    border-bottom: 3px solid rgb(35, 35, 39);
+    
+    
+}
+
+
+.der{
+    height: 100vh;
+    width: 10%;
+    text-align:center;
+    background-image: url(..//img/fondo_der.jpg);
+    
+    
+    
+}
+
+#cuerpo2{
+    display: flex;
+    background-color: whitesmoke;
+    
+}
+
+
+
+.izq_mid{
+    background-image: url(..//img/logo_inicio.jpg);
+    height: 100vh;
+    width: 50%;
+    text-align:center;
+    font-size: 15pt;
+    padding-top: 120px;
+    
+}
+
+.der_mid{
+    background-image: url(..//img/cripto1.jpg);
+    width: 40%;
+    height: 100vh;
+    text-align: center;
+    border-right: 3px solid rgb(35, 35, 39);
+    border-left: 3px solid rgb(35, 35, 39);
+    
+}
+
+#cuerpo3{
+    display: flex;
+    background-color: whitesmoke;
+
+}
+
+
+.mid_2{
+    height: 100vh;
+    width: 40%;
+    text-align: center;
+    background-image: url(..//img/cuerpo_fondo.jpg);
+    border-right: 3px solid rgb(35, 35, 39);
+    border-left: 3px solid rgb(35, 35, 39);
+    border-bottom: 3px solid rgb(35, 35, 39);
+    
+    
+}
+
+#cuerpo4{
+    display: flex;
+    background-color: whitesmoke;
+
+}
+
+.mid_3{
+    height: 100vh;
+    width: 40%;
+    text-align: center;
+    background-image: url(..//img/fondo_cuerpo2.jpg);
+    border-right: 3px solid rgb(35, 35, 39);
+    border-left: 3px solid rgb(35, 35, 39);
+    border-bottom: 3px solid rgb(35, 35, 39);
+     
+}
+
+#cuerpo5{
+    display: flex;
+    background-color: whitesmoke;
+}
+
+.mid_4{
+    height: 100vh;
+    width: 40%;
+    text-align: center;
+    background-image: url(..//img/fondo_cuerpo3.png);
+    border-right: 3px solid rgb(35, 35, 39);
+    border-left: 3px solid rgb(35, 35, 39);
+    border-bottom: 3px solid rgb(35, 35, 39);
+     
+}
+
+.criptos_tr{
+    margin: auto;
+    height: 70vh;
+    width: 100%;
+    border-bottom: 3px solid rgb(35, 35, 39);
+
+}
+
+.img_p{
+    height: 270px;
+    width: 100%;
+}
+
+#pie{
+    text-align: center;
+    background-color: rgb(35, 35, 39) ;
+    color: #ffc107;
+    padding-bottom: 10px;
+    padding-top: 10px;
+}
+
+
